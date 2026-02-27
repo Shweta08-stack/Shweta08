@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-🔍 Data Analyst Intern at Dream With Data | 🐍 Python | 🛢️ SQL | 📊 Power BI | 📈 Statistics | 💻 Excel | 🎓 Microsoft Certified | 🚀 Aspiring Data Professional
+🔍 Data Analyst Intern at Dream With Data 🛢️ SQL | 📊 Power BI | 📈 Statistics | 💻 Excel | 🎓 Microsoft Certified | 🚀 Aspiring Data Professional
 
 * 🌍  I'm based in Wardha
-* ✉️  You can contact me at [Sghotekar80@gmail.com](mailto:Sghotekar80@gmail.com)
-* 🧠  I'm learning PYTHON ,SQL,STATISTICS,EXCEL,POWER BI
+* ✉️  You can contact me at [Sghotekar80@gmail.com](mailto:Shwetaofficial811@gmail.com)
+* 🧠  I'm learning SQL,EXCEL,POWER-BI
 
 ### Skills
 
